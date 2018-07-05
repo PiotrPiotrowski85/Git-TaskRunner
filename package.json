@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/PiotrPiotrowski85/Git-TaskRunner/issues"
   },
-  "homepage": "https://github.com/PiotrPiotrowski85/Git-TaskRunner#readme"
+  "homepage": "https://github.com/PiotrPiotrowski85/Git-TaskRunner#readme",
+  "devDependencies": {
+    "browser-sync": "^2.24.5"
+  }
 }
